@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -32,4 +31,3 @@ bin
 .classpath
 .settings
 .project
-.gitignore
